@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.4.0
         with:       
           CREDLY_USER: <michael.nicolai> # optional, but default will use the same from github
+
+            

@@ -1,4 +1,4 @@
-test
+
 <!--START_SECTION:badges-->
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png)](http://www.credly.com/badges/e15b463f-e6c5-47cb-92b8-43d7c20305bf "LFS169: Introduction to GitOps")
 [![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/ddec89c7-9268-4ec2-b1f3-30c5c07c32d0/image.png)](http://www.credly.com/badges/7c812f13-58fa-49f5-9e8d-1c588fc7f76b "LFEL1005: Security Self-Assessments for Open Source Projects")

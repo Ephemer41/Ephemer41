@@ -1,8 +1,10 @@
 
 <!--START_SECTION:badges-->
-[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/5426612d-4ded-4408-bfaa-dbe3210f9cf9/LF_logobadge.png)](http://www.credly.com/badges/e15b463f-e6c5-47cb-92b8-43d7c20305bf "LFS169: Introduction to GitOps")
-[![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/ddec89c7-9268-4ec2-b1f3-30c5c07c32d0/image.png)](http://www.credly.com/badges/7c812f13-58fa-49f5-9e8d-1c588fc7f76b "LFEL1005: Security Self-Assessments for Open Source Projects")
-[![Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/7f48ddd3-7fb5-42b3-a84f-42edd538d39d/image.png)](http://www.credly.com/badges/c4668284-5a30-44d6-b67a-820563288c85 "Kubernetes Fundamentals")
+[![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/84c1598f-9990-4cdf-a9e5-0ce39153b6e7 "CCNA: Switching, Routing, and Wireless Essentials")
+[![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/f2d0f170-30a9-4fca-881e-692225cdcf87 "CCNA: Enterprise Networking, Security, and Automation")
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/9b634d55-5b04-4b54-bf99-1265600f235a/image.png)](http://www.credly.com/badges/e15b463f-e6c5-47cb-92b8-43d7c20305bf "LFS169: Introduction to GitOps")
+[![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/3bc0cdbc-cba4-4f6e-b14d-0d9a0b0203d1/image.png)](http://www.credly.com/badges/7c812f13-58fa-49f5-9e8d-1c588fc7f76b "LFEL1005: Security Self-Assessments for Open Source Projects")
+[![Kubernetes Fundamentals](https://images.credly.com/size/110x110/images/4566aa76-1000-4ed5-a27e-e67ca4b7ff4d/image.png)](http://www.credly.com/badges/c4668284-5a30-44d6-b67a-820563288c85 "Kubernetes Fundamentals")
 [![English for IT 2](https://images.credly.com/size/110x110/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png)](http://www.credly.com/badges/ebf1f877-3afb-4575-ab4b-8195f44ead54 "English for IT 2")
 [![English for IT 1](https://images.credly.com/size/110x110/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](http://www.credly.com/badges/b504425f-0a18-4ca7-9949-4317129668af "English for IT 1")
 [![Cyber Threat Management](https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png)](http://www.credly.com/badges/3115c32b-e205-4332-b9ad-ec0432e82513 "Cyber Threat Management")
